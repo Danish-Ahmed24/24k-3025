@@ -1,5 +1,5 @@
-My name is Danish Ahmed
-My roll number is 24k-3025
+My name is Danish Ahmed/
+My roll number is 24k-3025/
 + My favourite games are:
   - football
   - free fire
