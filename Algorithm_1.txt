@@ -1,0 +1,18 @@
+# Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).
+If so, determine if it’s an even number or odd number as well.
+
+-----------------------------------------------------------------------------------------------------------------
+
+Ask user to enter Nth_number
+Ask user to enter n_number
+Set remainder = Nth_number % n_number
+Check if(remainder == 0) then
+Print “It is divisible by”+n_number
+Else 
+Print “It is not divisible by”+n_number
+Set eo=Nth_number%2
+Check if(eo==0) then
+Print “It is Even”
+Else
+Print “It is odd”
+End
