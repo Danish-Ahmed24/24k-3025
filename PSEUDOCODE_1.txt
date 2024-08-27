@@ -1,0 +1,14 @@
+Find the maximum number in any of three variables
+--------------------------------------------------------------------
+
+Start
+Input n1
+Input n2
+Input n3
+If (n1>n2 && n>n3) then
+Print n1+ “is Greatest”
+Else if(n2>n1 && n2>n3) then
+Print n2+”is Greatest”
+Else
+Print n3+”is Greatest”
+End
