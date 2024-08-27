@@ -1,5 +1,4 @@
-Find the maximum number in any of three variables
---------------------------------------------------------------------
+// Find the maximum number in any of three variables
 
 Start
 Input n1
