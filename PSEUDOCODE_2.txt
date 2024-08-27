@@ -1,0 +1,13 @@
+Take three variables as input and add them without using the + operator (Use your head for this)
+--------------------------------------------------------------------------------------------------
+
+Start
+Input n1
+Input n2
+Input n3
+Set sum to 0
+Increment sum by 1 ‘n1’ times
+Increment sum by 1 ‘n2’ times
+Increment sum by 1 ‘n3’ times
+Print sum
+End
