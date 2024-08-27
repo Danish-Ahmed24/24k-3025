@@ -1,6 +1,5 @@
-Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
-one being used for the operator)
---------------------------------------------------------------------
+//Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
+//one being used for the operator)
 
 Start
 Input n1
