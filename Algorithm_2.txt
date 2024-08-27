@@ -1,5 +1,4 @@
-Implement an algorithm where the user enters a number, and an appropriate month is displayed
--------------------------------------------------------------------------------------------------
+//Implement an algorithm where the user enters a number, and an appropriate month is displayed
 
 Ask the user to enter month_num
 Check month_num is equal to 1 then
