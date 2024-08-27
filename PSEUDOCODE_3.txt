@@ -1,0 +1,14 @@
+Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
+one being used for the operator)
+--------------------------------------------------------------------
+
+Start
+Input n1
+Input n2
+Input op
+If ( op == ‘+’) then
+Set cal = n1+n2
+Else if(op==’-‘) then
+Set cal=n1-n2
+Print cal
+End
