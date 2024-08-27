@@ -4,12 +4,12 @@
 Ask user to enter Nth_number
 Ask user to enter n_number
 Set remainder = Nth_number % n_number
-Check if(remainder == 0) then
+Check if remainder is equal to 0 then
 Print “It is divisible by n_number"
 Else 
 Print “It is not divisible by n_number"
-Set eo=Nth_number%2
-Check if(eo==0) then
+Set eo = Nth_number%2
+Check if eo is equal to 0 then
 Print “It is Even”
 Else
 Print “It is odd”
