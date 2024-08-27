@@ -2,9 +2,11 @@
 
 **My name is Danish Ahmed**
 
+**I have done Intermediate from _hyd board_**
+
 > My roll number is ***24k-3025***
 
-+ My favourite games are:
++ My favorite games are:
   - football
   - free fire
   - Fifa
